@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/akashvn/pillbox/static/css/main.dab15412.css",
-    "main.js": "/akashvn/pillbox/static/js/main.ff1c2af3.js",
-    "static/js/787.4b03190c.chunk.js": "/akashvn/pillbox/static/js/787.4b03190c.chunk.js",
-    "static/media/image1pill.png": "/akashvn/pillbox/static/media/image1pill.28a03ff9742bfffb3f1b.png",
-    "index.html": "/akashvn/pillbox/index.html",
-    "main.dab15412.css.map": "/akashvn/pillbox/static/css/main.dab15412.css.map",
-    "main.ff1c2af3.js.map": "/akashvn/pillbox/static/js/main.ff1c2af3.js.map",
-    "787.4b03190c.chunk.js.map": "/akashvn/pillbox/static/js/787.4b03190c.chunk.js.map"
+    "main.css": "/pillbox/static/css/main.dab15412.css",
+    "main.js": "/pillbox/static/js/main.06e430b6.js",
+    "static/js/787.4b03190c.chunk.js": "/pillbox/static/js/787.4b03190c.chunk.js",
+    "static/media/image1pill.png": "/pillbox/static/media/image1pill.28a03ff9742bfffb3f1b.png",
+    "index.html": "/pillbox/index.html",
+    "main.dab15412.css.map": "/pillbox/static/css/main.dab15412.css.map",
+    "main.06e430b6.js.map": "/pillbox/static/js/main.06e430b6.js.map",
+    "787.4b03190c.chunk.js.map": "/pillbox/static/js/787.4b03190c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dab15412.css",
-    "static/js/main.ff1c2af3.js"
+    "static/js/main.06e430b6.js"
   ]
 }
